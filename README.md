@@ -313,4 +313,4 @@ Please open the link yourself on the day you add it, and keep to the scope above
 
 ## Licence
 
-The list is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The script is MIT. Compiled by [OSINT JOURNO](https://github.com/Ghongha007).
+The list is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The script is MIT. Compiled by [OSINT JOURNO](https://github.com/OSINT-JOURNO).
