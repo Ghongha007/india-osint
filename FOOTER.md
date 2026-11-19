@@ -22,7 +22,10 @@ Please open the link yourself on the day you add it, and keep to the scope above
 
 ## Related
 
+- [russia-osint](https://github.com/Ghongha007/russia-osint): public records, sanctions lists and open data for investigating Russia
+- [china-osint](https://github.com/Ghongha007/china-osint): public records and open data for investigating China
 - [ai-for-osint](https://github.com/Ghongha007/ai-for-osint): AI tools for investigators, with where each runs and its known limits
+- [groundline](https://github.com/Ghongha007/groundline): check every sentence of a draft or AI summary against its source documents
 - [chat2net](https://github.com/Ghongha007/chat2net): turn a chat or social-media export into a Gephi network
 - [osint-skills](https://github.com/Ghongha007/osint-skills): agent skills for verification, geolocation, chronolocation and fact-checking
 - [verify-mcp](https://github.com/Ghongha007/verify-mcp): an MCP server with keyless, read-only verification lookups

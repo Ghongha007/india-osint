@@ -1,6 +1,6 @@
 # India OSINT
 
-Public records, open data and tools for investigating stories in India. Every link was opened and checked on the date shown beside it.
+Public records, open data and tools for investigating stories in India. Every link was checked on the date shown beside it.
 
 **{N} sources. Last full check: {CHECKED}.** {OK} loaded for us; {UNREACHABLE} could not be reached from our checker and are marked in the table. Many Indian government sites block visitors from outside India or time out under load, so a source marked that way may still work for you.
 
